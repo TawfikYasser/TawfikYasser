@@ -10,7 +10,7 @@
 - I’m looking to collaborate on the projects that focusing on the optimization of each lne of code, which will give us always the ability to go forward.
 
 ## Contact me:
-[![Linkedin Badge](https://img.shields.io/badge/TawfikYasser-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawfikyasser/)
+[![Linkedin Badge](https://img.shields.io/badge/TawfikYasser-30302f?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tawfikyasser/)
 [![Gmail Badge](https://img.shields.io/badge/tawfekyassertawfek@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tawfekyassertawfek@gmail.com)
 
 ### Feel free to contact me and ask me for anything. 😀
