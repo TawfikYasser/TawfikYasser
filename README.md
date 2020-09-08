@@ -15,4 +15,4 @@
 
 ### Feel free to contact me and ask me for anything. 😀
 
-Have a nice day.
+IT’S ALL ABOUT THE DATA.
