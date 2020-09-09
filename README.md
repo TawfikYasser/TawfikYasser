@@ -15,6 +15,7 @@
 
 ### Feel free to contact me and ask me for anything. 😀
 
-<img src="https://github-readme-stats.vercel.app/api?username=TawfikYasser&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+###### Products Management System
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TawfikYasser&repo=Products-Management-System">
 
 IT’S ALL ABOUT THE DATA.
