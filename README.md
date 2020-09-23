@@ -1,6 +1,6 @@
 # Hi there 👋 This is Tawfik Yasser 👨‍💻
 
-### Student at faculty of computers and artificial intelligence, at cairo university. (3rd)
+### Student at faculty of computers and artificial intelligence, Cairo university. (3rd Year)
 
 ###### About
 - I’m currently learning programming, math, software engineering concepts, databases, and and other things.
