@@ -8,11 +8,11 @@ Student at Faculty of Computers and Artificial Intelligence Cairo university.
 
 ###### Carrer interests
 
- Software Engineering.
- Data Engineering
- System Analysis and Design
- Python and SQL
- Data Structures and Algorithms
+* Software Engineering.
+* Data Engineering
+* System Analysis and Design
+* Python and SQL
+* Data Structures and Algorithms
 
 ###### Contact me
 
