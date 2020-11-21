@@ -1,17 +1,13 @@
-<div align="center">
-<table align="center"><tr><td align="center" width="9999">
-
 # Tawfik Yasser Tawfik
 
 Student at Faculty of Computers and Artificial Intelligence Cairo university.
-</td></tr></table>
 
 ###### Carrer interests
 
-* Software Engineering.
+* Software Engineering
 * Data Engineering
-* System Analysis and Design
 * Python and SQL
+* System Analysis and Design
 * Data Structures and Algorithms
 
 ###### Contact me
