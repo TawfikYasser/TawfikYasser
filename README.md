@@ -10,6 +10,10 @@ Student at Faculty of Computers and Artificial Intelligence Cairo university.
 * System Analysis and Design
 * Data Structures and Algorithms
 
+###### PL and Technologies
+
+C++, Java, C#, Python, SQL, HTML, CSS, JSP, Android, and Linux.
+
 ###### Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/TawfikYasser-30302f?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tawfikyasser/)
