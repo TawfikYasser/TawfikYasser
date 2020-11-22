@@ -1,6 +1,6 @@
 # Tawfik Yasser Tawfik
 
-Student at Faculty of Computers and Artificial Intelligence Cairo university.
+Student at Faculty of Computers and Artificial Intelligence Cairo university -> Information Systems Department.
 
 ###### Carrer interests
 
