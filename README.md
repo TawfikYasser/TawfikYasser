@@ -6,13 +6,11 @@ Student at Faculty of Computers and Artificial Intelligence Cairo university -> 
 
 * Software Engineering
 * Data Engineering
-* Python and SQL
-* System Analysis and Design
-* Data Structures and Algorithms
+* System Analysis and Design (SDLC)
 
 ###### PL and Technologies
 
-C++, Java, C#, Python, SQL, HTML, CSS, JSP, Android, and Linux.
+C++, Java, C#, Python, Data structures, Algorithms, SQL, HTML, CSS, JSP, Android, and Linux.
 
 ###### Contact me
 
