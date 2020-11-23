@@ -2,11 +2,10 @@
 
 Student at Faculty of Computers and Artificial Intelligence Cairo university -> Information Systems Department.
 
-###### Carrer interests
+###### Carrer Interests
 
-* Software Engineering
 * Data Engineering
-* System Analysis and Design (SDLC)
+* Software Development Life Cycle
 
 ###### PL and Technologies
 
