@@ -9,7 +9,7 @@ Student at FCAI at CU - IS Dep.
 
 ###### PL and Technologies
 
-C++, Java, C#, Python, Data structures, Algorithms, SQL, HTML, CSS, JSP, Android, and Linux.
+C++, Java, Python, C#, Data structures, Algorithms, SQL, HTML, CSS, JSP, Android, and Linux.
 
 ###### Contact me
 
