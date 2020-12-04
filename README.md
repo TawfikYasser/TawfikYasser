@@ -1,18 +1,20 @@
-# Tawfik Yasser Tawfik
+###### Hi There!
+```Talk is cheap. Show me the code.``` - Linus Torvalds
 
-Student at FCAI at CU - IS Dep.
+###### Here’s information about me
 
-###### Carrer Interests
+[LinkedIn](https://www.linkedin.com/in/tawfikyasser/)
+... [Stack OverFlow](https://stackoverflow.com/users/11098869/tawfik-yasser)
+... [My FCAI app](https://play.google.com/store/apps/details?id=com.tawfikao.myfcai)
 
-* Data Engineering
-* Software Development Life Cycle
+###### Career Interests
 
-###### PL and Technologies
+* Data
+* SDLC
+* Python
 
-C++, Java, Python, C#, Data structures, Algorithms, SQL, HTML, CSS, JSP, Android, and Linux.
+###### Email
 
-###### Contact me
+=> tawfektassertawfek@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/TawfikYasser-30302f?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tawfikyasser/)
-
-[![Gmail Badge](https://img.shields.io/badge/tawfekyassertawfek@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tawfekyassertawfek@gmail.com)
+###### This ```Tawfik```
