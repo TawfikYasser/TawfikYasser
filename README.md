@@ -3,9 +3,7 @@
 
 ###### Here’s information about me
 
-###### [LinkedIn](https://www.linkedin.com/in/tawfikyasser/)
-###### [Stack OverFlow](https://stackoverflow.com/users/11098869/tawfik-yasser)
-###### [My FCAI app](https://play.google.com/store/apps/details?id=com.tawfikao.myfcai)
+###### => [LinkedIn](https://www.linkedin.com/in/tawfikyasser/)
 
 ###### Career Interests
 
