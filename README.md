@@ -4,15 +4,12 @@
 ###### Here’s information about me
 
 ###### => [LinkedIn](https://www.linkedin.com/in/tawfikyasser/)
+###### => [Gmail](tawfektassertawfek@gmail.com)
 
 ###### Career Interests
 
 * Data
 * SDLC
 * Python
-
-###### Email
-
-###### => [Gmail](tawfektassertawfek@gmail.com)
 
 ###### This ```Tawfik```
