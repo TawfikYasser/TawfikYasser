@@ -4,7 +4,7 @@
  <p align="center">I Speak Python</p>
 </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/tawfikyasser/">
+    <a href="https://www.linkedin.com/in/tawfikyasser/" target="_blank">
       <img alt="LinkedIn Connect" src="https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" />
     </a>
   </p>
