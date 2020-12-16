@@ -1,15 +1,8 @@
 ###### Hi There!
-###### ```Talk is cheap. Show me the code.``` - Linus Torvalds
+###### This ```Tawfik``` I speak Python
 
-###### Here’s information about me
+###### Here’s information about me [[LinkedIn](https://www.linkedin.com/in/tawfikyasser/) - [Gmail](tawfektassertawfek@gmail.com)]
 
-###### => [LinkedIn](https://www.linkedin.com/in/tawfikyasser/)
-###### => [Gmail](tawfektassertawfek@gmail.com)
+###### Career Interests [Data - SDLC - Python]
 
-###### Career Interests
 
-* Data
-* SDLC
-* Python
-
-###### This ```Tawfik```
