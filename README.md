@@ -12,7 +12,7 @@
 <details>
  <summary><b> Career Interests </b></summary>
 
- * Data
+ * Data Engineering
  * SDLC
  * Python
 
