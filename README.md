@@ -9,18 +9,37 @@
     </a>
   </p>
 
-<details>
- <summary><b> Career Interests </b></summary>
+```java
+	public static Map gitHubProfile() {
+		
+		  Map<String,String> quickInfo = new HashMap<String,String>();  
+		  
+		  quickInfo.put("Name","Tawfik Yasser");
+		  quickInfo.put("Born","09 May, 2000");
+		  quickInfo.put("Religion", "Muslim");
+		  quickInfo.put("Nationality", "Egyptian");
+		  quickInfo.put("Education", "B.Sc., Computer Science, Cairo University");
+		
+		  return quickInfo;
+	}
+ ```
+<!-- currently learning python , js, jq, designpatterns, solid-->
+### Languages
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
- * Data Engineering
- * SDLC
- * Python
+### Technologies
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-</details>
+### Tasks
 
-<details>
- <summary><b> See my programming languages </b></summary>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TawfikYasser&langs_count=8)](https://github.com/TawfikYasser)
+- [x] Born
+- [ ] Got a job
+- [ ] Married
+- [ ] Have children
+- [ ] Die
 
-</details>
+
