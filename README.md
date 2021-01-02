@@ -25,8 +25,8 @@ public static Map gitHubProfile() {
  ```
 <!-- currently learning python , js, jq, designpatterns, solid-->
 ### Languages
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=c++)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
