@@ -42,4 +42,5 @@ public static Map gitHubProfile() {
 - [ ] Have children
 - [ ] Die
 
-
+### Currently learning
+* Python, Advanced Data Structures and Algorithms, JavaScript, and Design Patterns.
