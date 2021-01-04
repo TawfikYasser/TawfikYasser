@@ -13,13 +13,11 @@
 public static Map gitHubProfile() {
 
 	  Map<String,String> quickInfo = new HashMap<String,String>();  
-
 	  quickInfo.put("Name","Tawfik Yasser");
 	  quickInfo.put("Born","09 May, 2000");
 	  quickInfo.put("Religion", "Muslim");
 	  quickInfo.put("Nationality", "Egyptian");
 	  quickInfo.put("Education", "B.Sc., Computer Science, Cairo University");
-
 	  return quickInfo;
 }
  ```
