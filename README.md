@@ -2,6 +2,7 @@
  <!--<img width="100px" src="https://avatars1.githubusercontent.com/u/54971231?s=460&u=a9fe7887c665721a4773432f7393e87cc5490ff1&v=4" align="center" alt="GitHub Tawfik Image" />-->
  <h2 align="center">Tawfik Yasser Tawfik</h2>
  <p align="center">B.Sc., Computer Science, Cairo University</p>
+  <p align="center"><strong>*Open source and helping community*</strong></p>
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/tawfikyasser/" target="_blank">
