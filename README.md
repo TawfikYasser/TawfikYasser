@@ -4,13 +4,13 @@
  <p align="center">B.Sc., Computer Science, Cairo University</p>
   <p align="center"><strong>*Open source and helping community*</strong></p>
 </p>
+
   <p align="center">
 	
-![alt text](https://github.com/TawfikYasser/TawfikYasser/blob/master/carbon.png)    
-<a href="https://www.linkedin.com/in/tawfikyasser/" target="_blank">
-      <img alt="LinkedIn Connect" src="https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" />
-    </a>
+![alt text](https://github.com/TawfikYasser/TawfikYasser/blob/master/carbon.png)   
+
   </p>
+
   
 
 
@@ -25,8 +25,8 @@ public static Map gitHubProfile() {
 	  quickInfo.put("Nationality", "Egyptian");
 	  quickInfo.put("Education", "B.Sc., Computer Science, Cairo University");
 	  return quickInfo;-->
- 
-<!-- currently learning python , js, jq, designpatterns, solid-->
+
+
 ### Languages
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=c++)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=java)
@@ -46,3 +46,10 @@ public static Map gitHubProfile() {
 
 ### Currently learning
 * Python, Advanced Data Structures and Algorithms, JavaScript, and Design Patterns.
+
+#
+   <p align="center">
+      <a href="https://www.linkedin.com/in/tawfikyasser/" target="_blank">
+      <img alt="LinkedIn Connect" src="https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect" />
+    </a>
+  </p>
