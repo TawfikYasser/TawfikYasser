@@ -26,15 +26,21 @@ public static Map gitHubProfile() {
 	  quickInfo.put("Education", "B.Sc., Computer Science, Cairo University");
 	  return quickInfo;-->
 
-
+<!--
 ###### Languages
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=c++)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/TawfikYasser?tab=repositories&q=&type=&language=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-
 ###### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+-->
+
+###### I have experience in 
+* C++, Java, SQL, MySQL, JSP, Servlets, Algorithms, Data structures, Design Patterns, and SOLID.
+
+###### I know
+* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, and Linux
 
 ###### Tasks
 
@@ -45,7 +51,7 @@ public static Map gitHubProfile() {
 - [ ] Die
 
 ###### Currently learning
-* Python, Advanced Data Structures and Algorithms, JavaScript, and Design Patterns.
+* Python, Advanced Data Structures and Algorithms, JavaScript, APIs, and Design Patterns.
 
 #
    <p align="center">
