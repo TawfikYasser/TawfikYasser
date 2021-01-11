@@ -36,10 +36,10 @@ public static Map gitHubProfile() {
 -->
 
 ###### I have experience in 
-* C++, Java, SQL, MySQL, JSP, Servlets, Algorithms, Data structures, Design Patterns, and SOLID.
+* C++, Java, SQL, MySQL, JSP, Servlets, Algorithms, Data structures, Design Patterns, Git, and SOLID.
 
-###### I know
-* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, and Linux
+###### Currently learning
+* Python, Advanced Data Structures and Algorithms, JavaScript, APIs, and Design Patterns.
 
 ###### Tasks
 
@@ -49,8 +49,8 @@ public static Map gitHubProfile() {
 - [ ] Have children
 - [ ] Die
 
-###### Currently learning
-* Python, Advanced Data Structures and Algorithms, JavaScript, APIs, and Design Patterns.
+###### I know
+* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, Android, Trello, Firebase, and Linux
 
 #
    <p align="center">
