@@ -41,6 +41,9 @@ public static Map gitHubProfile() {
 ###### Currently learning
 * Python, Advanced Data Structures and Algorithms, JavaScript, APIs, and Design Patterns.
 
+###### I know
+* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, Android, Trello, Firebase, and Linux
+
 ###### Tasks
 
 - [x] Born
@@ -48,9 +51,6 @@ public static Map gitHubProfile() {
 - [ ] Married
 - [ ] Have children
 - [ ] Die
-
-###### I know
-* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, Android, Trello, Firebase, and Linux
 
 #
    <p align="center">
