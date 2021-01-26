@@ -1,1 +1,7 @@
-![alt text](https://github.com/TawfikYasser/TawfikYasser/blob/master/profile-3.png)
+> Hello world!, I’m Tawfik Yasser Junior Software Engineer, I’m enthusiast about GitHub and Open Source.
+
+> I have experience in: `C++`, `Java`, `SQL`, `MySQL`, `JSP`, `Servlets`, `DSA`, `Design Patterns`, `Git`, and `SOLID`.
+
+> I am currently learning: `Python`, `Advanced DSA`, `JavaScript`, `Hibernate`,`APIs`, and `Design Patterns`.
+
+> I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `API`, `Networks`, `Android`, `Trello`, `Firebase`, and `Linux`.
