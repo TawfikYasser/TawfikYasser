@@ -9,3 +9,5 @@
 > My favorite projects: [`Hotel Reservation System`](https://github.com/TawfikYasser/Hotel-Reservation-System) , [`Products Management System`](https://github.com/TawfikYasser/Products-Management-System) , [`CPU Scheduler`](https://github.com/TawfikYasser/CPUSS) , [`Java Mail Library`](https://github.com/TawfikYasser/JTMail)
 
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , `Gmail: tawfekyassertawfek@gmail.com`
+
+> <b>Quote<b>: We resist what we love, we endure what we hate, "Mostafa Mahmoud".
