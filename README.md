@@ -10,4 +10,4 @@
 
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , `Gmail: tawfekyassertawfek@gmail.com`
 
-> <b>`Quote`<b> We resist what we love, we endure what we hate, `Mostafa Mahmoud`
+> <b>`Quote`<b> We resist what we love, we endure what we hate, `Dr. Mostafa Mahmoud`
