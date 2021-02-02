@@ -1,4 +1,4 @@
-> Hello world!, I’m Tawfik Yasser Junior Software Engineer, I’m enthusiast about GitHub and Open Source.
+> Hello world!, I’m Tawfik Yasser, 3rd Computer Science Student, I’m enthusiast about GitHub and Open Source.
 
 > I have experience in: `C++`, `Java`, `SQL`, `MySQL`, `JSP`, `Servlets`, `DSA`, `Design Patterns`, `Git`, and `SOLID`.
 
