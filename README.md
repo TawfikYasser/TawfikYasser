@@ -8,6 +8,8 @@
 
 > My favorite projects: [`Hotel Reservation System`](https://github.com/TawfikYasser/Hotel-Reservation-System) , [`Products Management System`](https://github.com/TawfikYasser/Products-Management-System) , [`CPU Scheduler`](https://github.com/TawfikYasser/CPUSS) , [`Java Mail Library`](https://github.com/TawfikYasser/JTMail)
 
+> My Merged Pull Requests: <strong>[`Here 39`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
+
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , `Gmail: tawfekyassertawfek@gmail.com`
 
 > See my resume: [`Resume`](https://www.linkedin.com/in/tawfikyasser/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwpWx8BX_1Qb7cdc-f-9oVgc0ksvP5fajM,1611911084859)) , Last update `Jan 2021`
