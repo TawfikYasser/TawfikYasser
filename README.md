@@ -15,3 +15,10 @@
 > See my resume: [`Resume`](https://www.linkedin.com/in/tawfikyasser/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwpWx8BX_1Qb7cdc-f-9oVgc0ksvP5fajM,1611911084859)) , Last update `Jan 2021`
 
 > <b>`Quote`<b> We resist what we love, we endure what we hate, `Dr. Mostafa Mahmoud`
+  
+<details>
+  <summary>Additonal Information</summary>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikYasser&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
+</p>
+</details>
