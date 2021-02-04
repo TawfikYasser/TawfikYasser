@@ -22,3 +22,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikYasser&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
 </p>
 </details>
+
+<details>
+  <summary>Recent Activity</summary>
+<p align="center">
+  <!--START_SECTION:activity-->
+</p>
+</details>
