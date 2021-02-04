@@ -23,9 +23,6 @@
 </p>
 </details>
 
-<details>
-  <summary>Recent Activity</summary>
-<p align="center">
-  <!--START_SECTION:activity-->
-</p>
-</details>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
