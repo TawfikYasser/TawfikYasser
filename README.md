@@ -21,9 +21,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikYasser&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
 </p>
+  
+  [![Tawfik's github activity graph](https://activity-graph.herokuapp.com/graph?username=TawfikYasser&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
----
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
