@@ -6,8 +6,6 @@
 
 > I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `API`, `Networks`, `Android`, `Trello`, `Firebase`, and `Linux`.
 
-> My favorite projects: [`Hotel Reservation System`](https://github.com/TawfikYasser/Hotel-Reservation-System) , [`Products Management System`](https://github.com/TawfikYasser/Products-Management-System) , [`CPU Scheduler`](https://github.com/TawfikYasser/CPUSS) , [`Java Mail Library`](https://github.com/TawfikYasser/JTMail)
-
 > My Merged Pull Requests: <strong>[`Here`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
 
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , `Gmail: tawfekyassertawfek@gmail.com`
