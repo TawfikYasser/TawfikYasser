@@ -2,9 +2,9 @@
 
 > I have experience in: `C++`, `Java`, `SQL`, `MySQL`, `JSP`, `Servlets`, `DSA`, `Design Patterns`, `Git`, and `SOLID`.
 
-> I am currently learning: `Python`, `Advanced DSA`, `JavaScript`, `Hibernate`, and `APIs`.
-
 > I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `API`, `Networks`, `Android`, `Trello`, `Firebase`, and `Linux`.
+
+> I am currently learning: `Data Engineering Track`.
 
 > My Merged Pull Requests: <strong>[`Here`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
 
