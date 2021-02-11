@@ -8,7 +8,7 @@
 
 > My Merged Pull Requests: <strong>[`Here`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
 
-> Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , `Gmail: tawfekyassertawfek@gmail.com`
+> Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , [`Upwork`](https://www.upwork.com/o/profiles/users/~0153b17a33b0226c96/), `Gmail: tawfekyassertawfek@gmail.com`
 
 > Tester at [`ring`](https://github.com/ring-lang) organization -> [`link`](https://ring-lang.sourceforge.io/team.html)
 
