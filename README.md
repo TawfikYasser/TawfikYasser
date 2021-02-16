@@ -20,8 +20,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikYasser&theme=radical&custom_title=streak-stats-ty&hide_border=true&layout=compact" />
 </p>
   
+  <p align="center">
+   <img align="center" src="https://metrics.lecoq.io/TawfikYasser" />   
+</p>
+  
   [![Tawfik's github activity graph](https://activity-graph.herokuapp.com/graph?username=TawfikYasser&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-  ![GitHub metrics](https://metrics.lecoq.io/TawfikYasser) 
+  
 
 </details>
