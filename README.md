@@ -21,9 +21,7 @@
 </p>
   
   [![Tawfik's github activity graph](https://activity-graph.herokuapp.com/graph?username=TawfikYasser&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ![Profile views](https://gpvc.arturio.dev/TawfikYasser)
-  
+    
   ![GitHub metrics](https://metrics.lecoq.io/TawfikYasser) 
 
 </details>
