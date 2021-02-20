@@ -2,15 +2,15 @@
 
 > I have experience in: `C++`, `Java`, `SQL`, `MySQL`, `JSP`, `Servlets`, `DSA`, `Design Patterns`, `Git`, and `SOLID`.
 
-> I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `API`, `Networks`, `Android`, `Trello`, `Firebase`, and `Linux`.
+> I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `Networks Fundamentals`, `Android`, `Trello`, `Firebase`, and `Linux`.
 
-> I am currently learning: `Data Engineering Track`.
+> I am currently learning: `Data Engineering`.
 
 > My Merged Pull Requests: <strong>[`Here`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
 
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , [`Twitter`](https://twitter.com/ty_osfm), [`Upwork`](https://www.upwork.com/o/profiles/users/~0153b17a33b0226c96/), `Gmail: tawfekyassertawfek@gmail.com`
 
-> Tester at [`ring`](https://github.com/ring-lang) organization -> [`link`](https://ring-lang.sourceforge.io/team.html)
+> `DSC Cairo Universitry Core Team Member` - `Participant at GirlScript Summer of Code`.
 
 > See my resume: [`Resume`](https://www.linkedin.com/in/tawfikyasser/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwpWx8BX_1Qb7cdc-f-9oVgc0ksvP5fajM,1611911084859)) , Last update: `Jan 2021`
   
