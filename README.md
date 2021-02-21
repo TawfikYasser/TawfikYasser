@@ -4,7 +4,7 @@
 
 > I know: `HTML`, `CSS`, `Ajax`, `Spring Boot`, `Networks Fundamentals`, `Android`, `Trello`, `Firebase`, and `Linux`.
 
-> I am currently learning: `Data Engineering`.
+> Currently learning: `Data Engineering`.
 
 > My Merged Pull Requests: <strong>[`Here`](https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged)</strong>
 
