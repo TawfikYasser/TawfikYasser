@@ -10,7 +10,7 @@
 
 > Find me: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , [`Twitter`](https://twitter.com/ty_osfm), [`Upwork`](https://www.upwork.com/o/profiles/users/~0153b17a33b0226c96/), `Gmail: tawfekyassertawfek@gmail.com`
 
-> `DSC Cairo Universitry Core Team Member` - `Participant at GirlScript Summer of Code`.
+> `DSC Cairo Universitry Core Team Member (Tech Committee)` - `Participant at GirlScript Summer of Code`.
 
 > See my resume: [`Resume`](https://www.linkedin.com/in/tawfikyasser/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwpWx8BX_1Qb7cdc-f-9oVgc0ksvP5fajM,1611911084859)) , Last update: `Jan 2021`
   
