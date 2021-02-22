@@ -13,11 +13,3 @@
 > `DSC Cairo Universitry Core Team Member (Tech Committee)` - `Participant at GirlScript Summer of Code for Open Source`.
 
 > See my resume: [`Resume`](https://www.linkedin.com/in/tawfikyasser/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwpWx8BX_1Qb7cdc-f-9oVgc0ksvP5fajM,1611911084859)) , Last update: `Jan 2021`
-  
-<details>
-  <summary>More Info</summary>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TawfikYasser&theme=dark&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
-</p>
-
-</details>
