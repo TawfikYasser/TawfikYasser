@@ -1,4 +1,4 @@
-> <strong>This is <strong><a href="https://www.linkedin.com/in/tawfikyasser">Tawfik Yasser</a></strong>, 3rd Year Computer Science Student, I’m enthusiast about <strong>Data Engineering</strong> and <strong><a href="https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged">Open Source</a></strong>.</strong>
+> <strong>This is <strong><a href="https://www.linkedin.com/in/tawfikyasser">Tawfik Yasser</a></strong>, 3rd Year Computer Science Student, Enthusiast about <strong>Data Engineering</strong> and <strong><a href="https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged">Open Source</a></strong>.</strong>
 
 > <strong>I have experience in: `C++`, `Java`, `SQL`, `MySQL`, `JSP & Servlet`, `DSA`, `Design Patterns & SOLID`, and `Git`.</strong>
 
