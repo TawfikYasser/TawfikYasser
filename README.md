@@ -2,7 +2,7 @@
 
 > <strong>I have experience in: `C++`, `Java`, `SQL`, `JSP & Servlet`, `DSA`, `Design Patterns & SOLID`, and `Git`</strong>
 
-> <strong>I know: `HTML`, `CSS`, `JavaScript`, `Ajax`, `Spring Boot`, `Networks Fundamentals`, `Android`, `Trello`, `Firebase`, and `Linux`</strong>
+> <strong>I know: `HTML`, `CSS`, `Trello`, and `Linux`</strong>
 
 > <strong>Contact on: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , [`Twitter`](https://twitter.com/dtetwk), [`Upwork`](https://www.upwork.com/o/profiles/users/~0153b17a33b0226c96/), [`Resume`](https://tawfikyasser.github.io/ty-resume/), [`Email`](mailto:tawfekyassertawfek@gmail.com)</strong>
 
