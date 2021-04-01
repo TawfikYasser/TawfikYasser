@@ -5,7 +5,3 @@
 > <strong>I know: `HTML`, `CSS`, `Trello`, and `Linux`</strong>
 
 > <strong>Contact on: [`LinkedIn`](https://www.linkedin.com/in/tawfikyasser/) , [`Twitter`](https://twitter.com/dtetwk), [`Upwork`](https://www.upwork.com/o/profiles/users/~0153b17a33b0226c96/), [`Resume`](https://tawfikyasser.github.io/ty-resume/), [`Email`](mailto:tawfekyassertawfek@gmail.com)</strong>
-
-> <strong>Currently learning: `Data Engineering`</strong>
-
-<a href="https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged"><img alt="https://github.com/pulls?q=is%3Apr+author%3ATawfikYasser+archived%3Afalse+is%3Aclosed+is%3Amerged" src="https://github.com/TawfikYasser/TawfikYasser/blob/master/mpr.png"></a>
