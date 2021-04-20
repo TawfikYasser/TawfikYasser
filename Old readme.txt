@@ -42,16 +42,7 @@ public static Map gitHubProfile() {
 * Python, Advanced Data Structures and Algorithms, JavaScript, APIs, and Design Patterns.
 
 ###### I know
-* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, Android, Trello, Firebase, and Linux
-
-###### Tasks
-
-- [x] Born
-- [ ] Got a job
-- [ ] Married
-- [ ] Have children
-- [ ] Die
-
+* HTML, CSS, JavaScript, Ajax, Spring Boot, API, Networks, Android, Trello, Firebase, and Lin
 #
    <p align="center">
       <a href="https://www.linkedin.com/in/tawfikyasser/" target="_blank">
