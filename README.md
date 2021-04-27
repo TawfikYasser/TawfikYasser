@@ -1,1 +1,1 @@
-> It is all about **Open Source**.
+> **Open Source**
