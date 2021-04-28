@@ -1,1 +1,1 @@
-> **Open Source**
+> **Right Design - Right Data - Right Decision*
