@@ -1,1 +1,1 @@
-> **Right Design - Right Data - Right Decision.**
+> **Right Design - Right Data - Right Decision**
