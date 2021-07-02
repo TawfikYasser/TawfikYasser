@@ -9,4 +9,4 @@
 * [Online Travel System [System Analysis & Design] ](https://github.com/TawfikYasser/System-Analysis-and-Design-IS332)
 * Best College Assignments: [ [Prolog: Horse Board](https://github.com/TawfikYasser/AI-Assignment-III) | [Java: CPU Scheduler](https://github.com/TawfikYasser/CPUSS/tree/main/src) | [C++: File Processing using B-Tree](https://github.com/TawfikYasser/B-Tree-Files)]
 
-> Find More [Here](https://github.com/TawfikYasser?tab=repositories)
+> Find more [here](https://github.com/TawfikYasser?tab=repositories)
