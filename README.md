@@ -9,7 +9,7 @@
   <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/header_.png">
   
   ```python
-       Tawfik Yasser | Skills => 'SQL - ETL - DWH - Talend - Python - Java - Shell - Git - Data Modeling - RESTful API'
+       Tawfik Yasser ; { 'Skills' : 'SQL - ETL - DWH - Talend - Python - Java - Shell - Git - Data Modeling - RESTful API'}
   ```   
 </p>
 
