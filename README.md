@@ -15,6 +15,6 @@
 
 
 <div align="center">
-  <h4><a href="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio">My Portfolio [Still private]</a></h4>
+  <h4><a href="https://github.com/TawfikYasser/Tawfik-Yasser-Portfolio#readme">My Portfolio</a></h4>
 </div>
 
