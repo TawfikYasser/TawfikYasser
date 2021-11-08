@@ -8,7 +8,7 @@
   <!--
   ```python
         Tawfik Yasser = { 'Skills' : [SQL - ETL - DWH - Hadoop - Talend - Python - Java - Shell - Git - RESTful API] }
- [LinkedIn](https://www.linkedin.com/in/tawfikyasser) | [Mail](mailto:tawfekyassertawfek@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
   ```   -->
 </p>
 
