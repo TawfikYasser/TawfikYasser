@@ -12,4 +12,4 @@
   ```   -->
 </p>
 
-* Portfolio Under Construction.
+* Portfolio is still in construction stage.
