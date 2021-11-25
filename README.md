@@ -12,7 +12,7 @@
   ```   </p>-->
 
 <p align="center">
-  <a href="https://tawfikyasser.github.io/Tawfik-Yasser/"><strong>My Portfolio</strong></a>
-  <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/myportfolioimg.png">
+  <a href="https://tawfikyasser.github.io/Tawfik-Yasser/" target="_blank"><strong>My Portfolio</strong></a>
+  <a href="https://tawfikyasser.github.io/Tawfik-Yasser/" target="_blank"><img src="https://github.com/TawfikYasser/TawfikYasser/blob/master/myportfolioimg.png"></a>
   
 </p>
