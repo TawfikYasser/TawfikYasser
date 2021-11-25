@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/P_Header.gif">
   <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/P_About_v2.gif">    
   <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/P_BeforeProjects.gif"> 
@@ -9,7 +9,10 @@
   ```python
         Tawfikd Yasser = { 'Skills' : [SQL - ETL - DWH - Hadoop - Talend - Python - Java - Shell - Git - RESTful API] }
  [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
-  ```   -->
-</p>
+  ```   </p>-->
 
-* Portfolio is still in construction stage.
+<p align="center">
+  <a href="https://tawfikyasser.github.io/Tawfik-Yasser/"><strong>My Portfolio</strong></a>
+  <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/myportfolioimg.png">
+  
+</p>
