@@ -11,6 +11,7 @@
  [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
   ```   </p>-->
 
-<p><a href="https://tawfikyasser.github.io/Tawfik-Yasser/" target="_blank"><strong>My Portfolio</strong></a> => You'll find my projects, my articles, how to reach me.</p>
+<p><a href="https://tawfikyasser.github.io/Tawfik-Yasser/" target="_blank"><strong>My Portfolio [tawfikyasser.github.io/Tawfik-Yasser]</strong></a></p>
+<img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/githubintro.gif">   
 
-> Available for hiring! => **[Upwork](https://www.upwork.com/freelancers/~0153b17a33b0226c96) - [LinkedIn](https://www.linkedin.com/in/tawfikyasser/) - [Mail](mailto:tawfekyassertawfek@gmail.com)**
+**[Upwork](https://www.upwork.com/freelancers/~0153b17a33b0226c96) - [LinkedIn](https://www.linkedin.com/in/tawfikyasser/) - [Mail](mailto:tawfekyassertawfek@gmail.com)**
