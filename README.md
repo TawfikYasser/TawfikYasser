@@ -11,7 +11,7 @@
  [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
   ```   </p>-->
 
-<img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/Cover_v1.gif">   
+<img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/githubintro.gif">   
 
 
 <p><a href="https://tawfikyasser.github.io/Tawfik-Yasser/" target="_blank"><strong>My Portfolio [tawfikyasser.github.io/Tawfik-Yasser]</strong></a></p>
