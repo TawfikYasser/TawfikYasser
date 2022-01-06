@@ -9,7 +9,7 @@
   ```python
         Tawfikd Yasser = { 'Skills' : [SQL - ETL - DWH - Hadoop - Talend - Python - Java - Shell - Git - RESTful API] }
  [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
-  ```   </p>-->
+  ```   </p>d-->
 
 ### [Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html)
 
