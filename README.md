@@ -11,11 +11,13 @@
  [LinkedIn](https://www.linkedin.com/in/tawfikyasser) +| [Mail](mailto:tawfekyassertawfek@gmail.com)
   ```   </p>d-->
 
-### [Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html)
-
-<img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/githubintronew.gif">   
 
 
-<p><a href="https://bdetwk.notion.site/bdetwk/Tawfik-Yasser-Big-Data-Engineer-51ab2a54579542ac8d68e3b3843e2635" target="_blank"><strong>My Portfolio</strong></a></p>
+<img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/imageee.png">   
+
+
+<p><a href="https://bit.ly/bdetwk1" target="_blank"><strong>My Portfolio</strong></a></p>
 
 **[Upwork](https://www.upwork.com/freelancers/~0153b17a33b0226c96) - [LinkedIn](https://www.linkedin.com/in/tawfikyasser/) - [Mail](mailto:tawfekyassertawfek@gmail.com)**
+
+[Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html)
