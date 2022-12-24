@@ -23,7 +23,7 @@
 [Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html) -->
 
 
-### Hi, I’m [Tawfik](https://www.linkedin.com/in/tawfikyasser/).
+### Hi, This is [Tawfik](https://www.linkedin.com/in/tawfikyasser/).
 
 I'm a Teaching Assistant @ Nile University, Egypt. Building high-performance data infrastructure pipelines, data projects, big data pipelines, working with ⚡ [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
 
