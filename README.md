@@ -12,7 +12,7 @@
   ```   </p>d-->
 
 
-
+<!-- 
 <img  src="https://github.com/TawfikYasser/TawfikYasser/blob/master/Portfolio_Page_ForGitHub.png">   
 
 
@@ -20,4 +20,20 @@
 
 **[Upwork](https://www.upwork.com/freelancers/~0153b17a33b0226c96) - [LinkedIn](https://www.linkedin.com/in/tawfikyasser/) - [Mail](mailto:tawfekyassertawfek@gmail.com)**
 
-[Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html)
+[Ranked 14th among the most active GitHub users in 2021 in Egypt 🆙⬆️⬆️](https://commits.top/egypt.html) -->
+
+
+### Hi, I’m [Tawfik](https://www.linkedin.com/in/tawfikyasser/).
+
+I'm a Teaching Assistant @ Nile University, Egypt. Building high-performance data infrastructure pipelines, data projects, big data pipelines, working with ⚡ [Apache Flink] ⚡ [Apache Spark] ⚡ [Python].
+
+My research focusing on improving the productivity of the stream processing engines.
+
+<!-- My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster). -->
+
+
+The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](https://www.linkedin.com/in/tawfikyasser/). The best way to get in touch is to DM me on [Email (@tyasser@nu.edu.eg)](mailto:tyasser@nu.edu.eg).
+
+To know more about me:
+
+- [Portfolio (@notion)](bit.ly/tawfik_portfolio)
