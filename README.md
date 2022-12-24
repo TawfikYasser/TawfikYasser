@@ -36,4 +36,4 @@ The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](http
 
 To know more about me:
 
-- [Portfolio (@notion)](bit.ly/tawfik_portfolio)
+- [Portfolio (@notion)](https://bdetwk.notion.site/bdetwk/Tawfik-Yasser-Big-Data-Engineer-51ab2a54579542ac8d68e3b3843e2635)
