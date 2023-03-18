@@ -34,6 +34,7 @@ My research focusing on improving the productivity of the stream processing engi
 
 The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](https://www.linkedin.com/in/tawfikyasser/). The best way to get in touch is to DM me on [Email (@tyasser@nu.edu.eg)](mailto:tyasser@nu.edu.eg).
 
-To know more about me:
+To know more about me (articles, blogs, etc.):
 
 - [Portfolio (@notion)](https://bdetwk.notion.site/bdetwk/Tawfik-Yasser-Big-Data-Engineer-51ab2a54579542ac8d68e3b3843e2635)
+- [Watermarks in Apache Flink (@medium)](https://medium.com/@detwk/unraveling-the-mystery-of-watermarks-in-apache-flink-an-internal-perspective-a4738bf4f561)
