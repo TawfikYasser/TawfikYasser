@@ -25,9 +25,9 @@
 
 ### Hi, This is [Tawfik](https://www.linkedin.com/in/tawfikyasser/).
 
-I'm a Teaching Assistant @ Nile University, Egypt. Building high-performance data infrastructure pipelines, data projects, big data pipelines, working with [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
+I'm a Teaching Assistant @ Nile University, Egypt. Building high-performance data infrastructure pipelines, data projects, and big data pipelines, working with [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
 
-My research focusing on improving the productivity of the stream processing engines.
+My research focuses on improving the productivity of the stream processing engines.
 
 <!-- My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster). -->
 
@@ -36,5 +36,6 @@ The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](http
 
 To know more about me (articles, blogs, etc.):
 
+- [Research Paper (Keyed Watermarks for Apache Flink)](https://ieeexplore.ieee.org/document/10296717)
 - [Portfolio (@notion)](https://bdetwk.notion.site/bdetwk/Tawfik-Yasser-Big-Data-Engineer-51ab2a54579542ac8d68e3b3843e2635)
 - [Watermarks in Apache Flink (@medium)](https://medium.com/@detwk/unraveling-the-mystery-of-watermarks-in-apache-flink-an-internal-perspective-a4738bf4f561)
