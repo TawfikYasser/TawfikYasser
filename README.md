@@ -25,7 +25,7 @@
 
 ### Hi, This is [Tawfik](https://www.linkedin.com/in/tawfikyasser/).
 
-I'm a Teaching Assistant @ Nile University, Egypt. Building high-performance data infrastructure pipelines, data projects, and big data pipelines, working with [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [AWS] ⚡ [PostgreSQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
+Building high-performance data infrastructure pipelines, data projects, and big data pipelines, working with [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [AWS] ⚡ [PostgreSQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
 
 My research focuses on improving the productivity of the stream processing engines.
 
