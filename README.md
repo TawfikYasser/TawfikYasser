@@ -36,7 +36,7 @@ The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](http
 
 To know more about me (articles, blogs, etc.):
 
-- [Q1 Journal Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000913?via%3Dihub)
-- [Research Paper (Keyed Watermarks for Apache Flink)](https://ieeexplore.ieee.org/document/10296717)
-- [Keyed Watermarks in Apache Flink (@medium)](https://medium.com/@detwk/a11ed1e0cd5b)
-- [Watermarks in Apache Flink (@medium)](https://medium.com/@detwk/unraveling-the-mystery-of-watermarks-in-apache-flink-an-internal-perspective-a4738bf4f561)
+- [Keyed Watermarks: Q1 Journal Paper (Elsevier - Future Generation Computer System)](https://www.sciencedirect.com/science/article/pii/S0167739X25000913?dgcid=author)
+- [Keyed Watermarks: Conference Paper (IEEE - NILES2023)](https://ieeexplore.ieee.org/document/10296717)
+- [Keyed Watermarks in Apache Flink - Medium Article - (@medium)](https://medium.com/@detwk/a11ed1e0cd5b)
+- [Watermarks in Apache Flink - Medium Article - (@medium)](https://medium.com/@detwk/unraveling-the-mystery-of-watermarks-in-apache-flink-an-internal-perspective-a4738bf4f561)
