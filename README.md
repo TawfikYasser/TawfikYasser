@@ -32,7 +32,7 @@ My research focuses on improving the productivity of the stream processing engin
 <!-- My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster). -->
 
 
-The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](https://www.linkedin.com/in/tawfikyasser/). The best way to get in touch is to DM me on [Email (@tawfekyassertawfek@gmail.com)](mailto:tawfekyassertawfek@gmail.com).
+<!-- The best way to track my work is to follow me on [LinkedIn (@tawfikyasser)](https://www.linkedin.com/in/tawfikyasser/). The best way to get in touch is to DM me on [Email (@tawfekyassertawfek@gmail.com)](mailto:tawfekyassertawfek@gmail.com). -->
 
 To know more about me (articles, blogs, etc.):
 
