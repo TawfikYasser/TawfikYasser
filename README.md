@@ -26,9 +26,7 @@
 ### Hey 👋, I'm [Tawfik](https://bento.me/tawfik).
 <!-- Hi, This is [Tawfik](https://bento.me/tawfik).-->
 
-Building high-performance data infrastructure pipelines, data projects, and big data pipelines, working with [Apache Flink] ⚡ [Apache Spark] ⚡ [Python] ⚡ [SQL] ⚡ [AWS] ⚡ [PostgreSQL] ⚡ [Java] ⚡ [Bash] ⚡ [Apache Hadoop] ⚡ [Apache Kafka] ⚡ [MySQL] ⚡ [Docker] ⚡ [Apache Airflow].
-
-My research focuses on improving the productivity of the stream processing engines.
+I'm a data engineer who builds high-performance data infrastructure and end-to-end pipelines, with deep expertise in Apache Flink (including Flink internals and an MSc thesis titled “Keyed Watermarks” on fine-grained per-key watermarking), Apache Spark, Python, SQL, AWS, PostgreSQL, Java, Bash, Apache Hadoop, Apache Kafka, MySQL, Docker, and Apache Airflow — my research focuses on improving the productivity and accuracy of stream-processing engines.
 
 <!-- My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster). -->
 
